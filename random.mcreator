@@ -1,0 +1,84 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EmeraldArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Armorhelm",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armorhelm"
+    },
+    {
+      "name": "Armorboots",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armorboots"
+    },
+    {
+      "name": "Armorchest",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armorchest"
+    },
+    {
+      "name": "Armorleg",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armorleg"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.random.emerald_armor_helmet": "Emerald Armor Helmet",
+      "item.random.emerald_armor_leggings": "Emerald Armor Leggings",
+      "item.random.emerald_armor_boots": "Emerald Armor Boots",
+      "item.random.emerald_armor_chestplate": "Emerald Armor Body"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "random",
+    "modName": "Random",
+    "version": "1.0.0",
+    "author": "wiene, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.random",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
