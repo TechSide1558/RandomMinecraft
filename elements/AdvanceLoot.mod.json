@@ -1,0 +1,55 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Generic",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EmaraldSword"
+            },
+            "weight": 1
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EmeraldArmor.helmet"
+            },
+            "weight": 1
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EmeraldArmor.body"
+            },
+            "weight": 1
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EmeraldArmor.legs"
+            },
+            "weight": 1
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:EmeraldArmor.boots"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "advance_loot",
+    "namespace": "mod"
+  }
+}

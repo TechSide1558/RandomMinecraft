@@ -60,14 +60,43 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "emarald_sword"
+    },
+    {
+      "name": "AdvanceLoot",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "advance_loot"
+    },
+    {
+      "name": "EmSworRec",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "em_swor_rec"
+    },
+    {
+      "name": "EmeraldSwordAdvance",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword_advance"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.emerald_sword_advance.descr": "Use An Emerald Sword",
       "item.random.emerald_armor_helmet": "Emerald Armor Helmet",
       "item.random.emarald_sword": "Emarald Sword",
+      "advancements.emerald_sword_advance.title": "Emearld Gear",
       "item.random.emerald_armor_leggings": "Emerald Armor Leggings",
       "item.random.emerald_armor_boots": "Emerald Armor Boots",
       "item.random.emerald_armor_chestplate": "Emerald Armor Body"
