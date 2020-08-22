@@ -51,6 +51,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "armorleg"
+    },
+    {
+      "name": "EmaraldSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emarald_sword"
     }
   ],
   "variable_elements": [],
@@ -58,6 +67,7 @@
   "language_map": {
     "en_us": {
       "item.random.emerald_armor_helmet": "Emerald Armor Helmet",
+      "item.random.emarald_sword": "Emarald Sword",
       "item.random.emerald_armor_leggings": "Emerald Armor Leggings",
       "item.random.emerald_armor_boots": "Emerald Armor Boots",
       "item.random.emerald_armor_chestplate": "Emerald Armor Body"
